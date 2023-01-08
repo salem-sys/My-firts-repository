@@ -12,4 +12,4 @@ git status
 git add
 git commit
 ```
-we love your `#0d1117` you lie my heart gg
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
