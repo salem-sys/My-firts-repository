@@ -7,3 +7,8 @@
 ***LOVE YOU***
 > LOVE THE WAY YOU LI
 use ` get status ` to list new or modified file thats have not been commited
+```
+git status
+git add
+git commit
+```
