@@ -12,4 +12,4 @@ git status
 git add
 git commit
 ```
-we love your `#ffffff` you lie my heart
+we love your `#ffffff` you lie my heart gg
