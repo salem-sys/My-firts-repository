@@ -13,3 +13,4 @@ git add
 git commit
 ```
 The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+`rgb(9, 105, 218)`	
