@@ -22,3 +22,4 @@ git commit
 ```
 [Contribution guidelines for this project](docs../myfirstpython.py)
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
