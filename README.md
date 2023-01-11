@@ -19,6 +19,6 @@ git status
 git add
 git commit
 ```
-my word of life[^1]
-second word og life[^2]
+my word of life[^1].
+second word og life[^2].
 
