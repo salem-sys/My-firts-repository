@@ -21,5 +21,5 @@ git add
 git commit
 ```- 
 1.salem 
-  - salem 1 
-    - salem 2
+- salem 1 
+- salem 2
