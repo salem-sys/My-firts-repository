@@ -15,3 +15,6 @@ git commit
 The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
 `rgb(9, 105, 218)`	
 [metabussines]([url](https://business.facebook.com/latest/home?nav_ref=pages_you_manage_navigation&business_id=1213492855806828&mio=0&asset_id=734823640046687&entry_exp=hpmgxkbfhl)
+```git status 
+git add 
+git commit```
