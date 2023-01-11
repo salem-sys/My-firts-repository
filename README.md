@@ -20,3 +20,4 @@ git status
 git add 
 git commit
 ```
+[Contribution guidelines for this project](docs/myfirstpython.py)
