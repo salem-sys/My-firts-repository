@@ -20,6 +20,6 @@ git status
 git add 
 git commit
 ```- 
-- geroge 
-+ georgr 
-* geroge
+- George Washington
+* John Adams
++ Thomas Jefferson
