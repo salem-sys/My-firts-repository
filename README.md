@@ -14,7 +14,9 @@
      - First nested list item
        - Second nested list item
 use ` get status ` to list new or modified file thats have not been commited
-[^note]:
-     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-     This footnote also has been made with a different syntax using 4 spaces for new lines.
+ere is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].  
+
+
 
