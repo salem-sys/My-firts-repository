@@ -19,6 +19,5 @@ git status
 git add
 git commit
 ```
-on my way to work i found some animal s lions tigers and elephants then i was so afraid from them
-
-back to school i found my self suffer from illusion so i should visit a pschologic doctor as soon as possible
+go hell baby [^1]
+my second foot notes [^2]
