@@ -19,6 +19,7 @@ git status
 git add
 git commit
 ```
-Here is a simple footnote[^1].
-
+[^note]:
+     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+     This footnote also has been made with a different syntax using 4 spaces for new lines.
 
