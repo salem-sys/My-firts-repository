@@ -27,6 +27,8 @@ You can also use words, to fit your writing style more closely[^note].
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new lines.
 <!-- This content will not appear in the rendered Markdown -->
-#123
+Let's rename \*readme\* to \*readmenow\*.
+
+
 
 
