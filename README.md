@@ -10,9 +10,9 @@
 * https://github.com/octo-org/octo-repo/issues/740
 + Add delight to the experience when all tasks are complete :tada:
 > LOVE THE WAY YOU LI
-100. First list item
-     - First nested list item
-       - Second nested list item
+100. love 
+     - me
+       - you
 use ` get status ` to list new or modified file thats have not been commited
 ere is a simple footnote[^1].
 
